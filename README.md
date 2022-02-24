@@ -1,1 +1,1 @@
-# java-microservices-cqrs-event-sourcing-with-kafka
+# Java Microservices - CQRS Event Sourcing with Kafka
