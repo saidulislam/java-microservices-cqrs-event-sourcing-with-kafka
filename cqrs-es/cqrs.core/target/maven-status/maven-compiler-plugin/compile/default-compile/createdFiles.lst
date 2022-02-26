@@ -1,0 +1,8 @@
+com\sitest\cqrs\core\domain\AggregateRoot.class
+com\sitest\cqrs\core\commands\CommandHandlerMethod.class
+com\sitest\cqrs\core\events\BaseEvent$BaseEventBuilder.class
+com\sitest\cqrs\core\commands\BaseCommand.class
+com\sitest\cqrs\core\events\BaseEvent.class
+com\sitest\cqrs\core\infrastructure\CommandDispatcher.class
+com\sitest\cqrs\core\messages\Message$MessageBuilder.class
+com\sitest\cqrs\core\messages\Message.class

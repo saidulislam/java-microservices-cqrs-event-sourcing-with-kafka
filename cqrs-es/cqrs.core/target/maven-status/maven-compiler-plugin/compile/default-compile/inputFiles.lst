@@ -1,0 +1,6 @@
+C:\Work\myexpm\CQRS\cqrs-es\cqrs.core\src\main\java\com\sitest\cqrs\core\events\BaseEvent.java
+C:\Work\myexpm\CQRS\cqrs-es\cqrs.core\src\main\java\com\sitest\cqrs\core\commands\CommandHandlerMethod.java
+C:\Work\myexpm\CQRS\cqrs-es\cqrs.core\src\main\java\com\sitest\cqrs\core\messages\Message.java
+C:\Work\myexpm\CQRS\cqrs-es\cqrs.core\src\main\java\com\sitest\cqrs\core\infrastructure\CommandDispatcher.java
+C:\Work\myexpm\CQRS\cqrs-es\cqrs.core\src\main\java\com\sitest\cqrs\core\commands\BaseCommand.java
+C:\Work\myexpm\CQRS\cqrs-es\cqrs.core\src\main\java\com\sitest\cqrs\core\domain\AggregateRoot.java
