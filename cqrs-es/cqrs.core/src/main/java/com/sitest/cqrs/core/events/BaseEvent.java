@@ -1,6 +1,6 @@
-package com.techbank.cqrs.core.events;
+package com.sitest.cqrs.core.events;
 
-import com.techbank.cqrs.core.messages.Message;
+import com.sitest.cqrs.core.messages.Message;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

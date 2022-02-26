@@ -1,4 +1,4 @@
-package com.techbank.cqrs.core.events;
+package com.sitest.cqrs.core.events;
 
 import lombok.Builder;
 import lombok.Data;
